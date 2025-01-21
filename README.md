@@ -2,11 +2,9 @@
 
 ### Hardware & Software
 [Anycubic Vyper E (4th generation)](https://www.anycubic.com/products/anycubic-vyper)<br />
-
  :black_medium_square: ~~[E3D Volcano Nozzle, Brass - 1.75mm & 0.4mm](https://www.amazon.com/gp/product/B0163TTOAI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)~~<br />
  :black_medium_square: [Micro Swiss Dual Gear Extruder](https://store.micro-swiss.com/products/micro-swiss-bowden-dual-gear-extruder)
-
-[Raspberry Pi 4 Model B 4GB](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)<br />
+ :black_medium_square: [Raspberry Pi 4 Model B 4GB](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)<br />
  :black_medium_square: [Mainsail OS](https://docs.mainsail.xyz/) + [Klipper](https://www.klipper3d.org/)<br />
 
 [OrcaSlicer V2.2.0](https://github.com/SoftFever/OrcaSlicer/releases/tag/v2.2.)
