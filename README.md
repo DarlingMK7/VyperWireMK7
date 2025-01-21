@@ -2,9 +2,10 @@
 
 ### Hardware & Software
 [Anycubic Vyper E (4th generation)](https://www.anycubic.com/products/anycubic-vyper)<br />
- :black_medium_square: ~~[E3D Volcano Nozzle, Brass - 1.75mm & 0.4mm](https://www.amazon.com/gp/product/B0163TTOAI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)~~<br />
- :black_medium_square: [Micro Swiss Dual Gear Extruder](https://store.micro-swiss.com/products/micro-swiss-bowden-dual-gear-extruder)
-
+ 
+ :black_medium_square: [E3D Revo Six - 1.75mm & 0.4mm, 0.6mm](https://www.filastruder.com/products/e3d-rapidchange-revo-six?variant=39531096277063)<br />
+ :black_medium_square: [Micro Swiss Dual Gear Extruder](https://store.micro-swiss.com/products/micro-swiss-bowden-dual-gear-extruder) <br />
+ :black_medium_square: [Usongshine Nema 17 Stepper Motor - 17HS4023](https://www.amazon.com/Usongshine-Stepper-Bipolar-Extruder-17HS4023/dp/B07TY4BFF2/) <br />
  
  :black_medium_square: [Raspberry Pi 4 Model B 4GB](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)<br />
  :black_medium_square: [Mainsail OS](https://docs.mainsail.xyz/) + [Klipper](https://www.klipper3d.org/)<br />
@@ -21,6 +22,3 @@
 
 | Component Reference Links   |
 | -----------   |
-| [MEAN WELL LRS-350-24 350.4W 24V 14.6 Amp Single Output Switchable Power Supply](https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-350)   |
-| [Micro Swiss Volcano Nozzle, Plated (TwinClad XT) - 1.75mm & 0.4mm](https://store.micro-swiss.com/collections/plated-brass-wear-resistant-nozzles/products/e3d-volcano-compatible-plated-wear-resistant-nozzle-1-75mm-filament)   |
-| [E3D Volcano Nozzle, Brass - 1.75mm & 0.4mm](https://e3d-online.com/products/volcano-nozzles)   |
